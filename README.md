@@ -6,7 +6,7 @@ Portifolio
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio Gamer</title>
+    <title>Thamires Moreirar</title>
     
     <!-- Fonte do Google: Press Start 2P -->
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
@@ -19,7 +19,7 @@ Portifolio
     <!-- Cabeçalho -->
     <header>
         <div class="container">
-            <h1>Portfólio Gamer de <span>Seu Nome</span></h1>
+            <h1>Thamires Moreira<span>Seu Nome</span></h1>
             <nav>
                 <ul>
                     <li><a href="#sobre">Sobre</a></li>
@@ -34,7 +34,7 @@ Portifolio
     <section id="sobre">
         <div class="container">
             <h2>Sobre Mim</h2>
-            <p>Sou um desenvolvedor apaixonado por games, tecnologia e programação. Aqui estão alguns dos meus projetos!</p>
+            <p>Sou uma desenvolvedora em processo de aprendizado nas areas de tecnologia e programação. Aqui estão alguns dos meus projetos!</p>
         </div>
     </section>
 
